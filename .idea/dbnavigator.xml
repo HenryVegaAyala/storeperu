@@ -23,11 +23,7 @@
     <autoscroll-to-editor value="false" />
     <autoscroll-from-editor value="true" />
     <show-object-properties value="true" />
-    <loaded-nodes>
-      <connection connection-id="7c9f6316-a467-498e-927c-8fe84ccd14c1">
-        <schema name="dh_store" object-types="function, procedure, table, view" />
-      </connection>
-    </loaded-nodes>
+    <loaded-nodes />
   </component>
   <component name="DBNavigator.Project.DatabaseConsoleManager">
     <connection id="7c9f6316-a467-498e-927c-8fe84ccd14c1">
@@ -36,9 +32,6 @@
   </component>
   <component name="DBNavigator.Project.EditorStateManager">
     <last-used-providers />
-  </component>
-  <component name="DBNavigator.Project.FileConnectionMappingManager">
-    <mapping file-url="file://$PROJECT_DIR$/public_html/script/sql.sql" connection-id="virtual-mysql-connection" current-schema="ROOT" />
   </component>
   <component name="DBNavigator.Project.MethodExecutionManager">
     <method-browser />
